@@ -1,0 +1,8 @@
+{
+    "mqtt_host": "localhost",
+    "humidity_topic": "home/humidity/value",
+    "temperature_topic": "home/temperature/value",
+    "humidity_refresh_topic": "home/humidity/get",
+    "temperature_refresh_topic": "home/temperature/get",
+    "i2c_bus_number": 1
+}
